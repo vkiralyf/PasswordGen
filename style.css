@@ -1,0 +1,31 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#box {
+    width:550px;
+    height:550px;
+    background-color:#1F2937;
+
+}
+.title-1{
+    font-weight:700 ;
+    font-size:40px;
+    color: #F9FAFB;
+    margin:20px 0 0;
+    padding: 0 10px 0;
+
+
+}
+.title-2{
+    font-weight:700 ;
+    font-size:40px;
+    color:#10B981;
+    margin: 0;
+    padding:0 10px 0;
+
+
+}
